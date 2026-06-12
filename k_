@@ -1,0 +1,12 @@
+[33mcommit cdd22a1b44b9e8533e7f46ceaaa3bb6e2e093a23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Karthikeyan-3007 <karthikeyanrssrm@gmail.com>
+Date:   Fri Jun 12 21:22:43 2026 +0530
+
+    Initial commit - Zeno Chatbot
+
+ README.md        |  37 [32m++++++[m
+ css/style.css    | 374 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ index.html       |  77 [32m++++++++++++[m
+ js/app.js        | 207 [32m++++++++++++++++++++++++++++++[m
+ js/marked.min.js |  19 [32m+++[m
+ 5 files changed, 714 insertions(+)
